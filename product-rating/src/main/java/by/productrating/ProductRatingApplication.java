@@ -7,8 +7,8 @@ import org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaAutoConfigurat
 
 @SpringBootApplication(exclude={DataSourceAutoConfiguration.class, HibernateJpaAutoConfiguration.class})
 public class ProductRatingApplication {
-
+/*
 	public static void main(String[] args) {
 		SpringApplication.run(ProductRatingApplication.class, args);
-	}
+	}*/
 }
